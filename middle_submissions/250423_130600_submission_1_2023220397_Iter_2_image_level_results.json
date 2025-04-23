@@ -1,0 +1,1218 @@
+{
+    "Datasets/CV_Competition/images/000000143877.jpg": {
+        "IoU": 0.5456595735766196,
+        "Dice": 0.7060540146158786,
+        "Precision": 0.5613680795724678,
+        "Recall": 0.9512195121864652,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000043678.jpg": {
+        "IoU": 0.7508009472019027,
+        "Dice": 0.8576656854130891,
+        "Precision": 0.9441233140572419,
+        "Recall": 0.7857142857085588,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/170.jpg": {
+        "IoU": 0.7146286234915128,
+        "Dice": 0.8335666554268859,
+        "Precision": 0.7519874065274803,
+        "Recall": 0.9349999999916816,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/35.jpg": {
+        "IoU": 0.9084728033373816,
+        "Dice": 0.9520416552425776,
+        "Precision": 0.9214854111303992,
+        "Recall": 0.984693877539391,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/33.jpg": {
+        "IoU": 0.9376663014533336,
+        "Dice": 0.9678305296944508,
+        "Precision": 0.9951928567694669,
+        "Recall": 0.9419325674842476,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/120.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/132.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000254347.jpg": {
+        "IoU": 0.5574434241517284,
+        "Dice": 0.7158442040427164,
+        "Precision": 0.5610945345636348,
+        "Recall": 0.9884615383348125,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/79.jpg": {
+        "IoU": 0.4937280992779493,
+        "Dice": 0.6610682352653227,
+        "Precision": 0.4937280992779493,
+        "Recall": 0.9999999999941053,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000498903.jpg": {
+        "IoU": 0.5144836388476491,
+        "Dice": 0.679417889570749,
+        "Precision": 0.5256061379091256,
+        "Recall": 0.9604938271439093,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000340398.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/191.jpg": {
+        "IoU": 0.8626442948221141,
+        "Dice": 0.9262576834666097,
+        "Precision": 0.9182879377374276,
+        "Recall": 0.9343669778609281,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/45.jpg": {
+        "IoU": 0.8649109014631465,
+        "Dice": 0.9275627063840599,
+        "Precision": 0.8649109014631465,
+        "Recall": 0.9999999999941733,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/155.jpg": {
+        "IoU": 0.7391639672945293,
+        "Dice": 0.8500221729459866,
+        "Precision": 0.7400772200726481,
+        "Recall": 0.998333333325014,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/68.jpg": {
+        "IoU": 0.8169322638727905,
+        "Dice": 0.8992434997345466,
+        "Precision": 0.9550561797687055,
+        "Recall": 0.8495939440656451,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000310206.jpg": {
+        "IoU": 0.924441629790527,
+        "Dice": 0.9607375100185827,
+        "Precision": 0.9999999999903514,
+        "Recall": 0.924441629790527,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000575497.jpg": {
+        "IoU": 0.9446188850895364,
+        "Dice": 0.9715208386923005,
+        "Precision": 0.9602035309462632,
+        "Recall": 0.9831081081003481,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000171499.jpg": {
+        "IoU": 0.8871915819921724,
+        "Dice": 0.9402241833398048,
+        "Precision": 0.8871915819921724,
+        "Recall": 0.9999999999863673,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000479677.jpg": {
+        "IoU": 0.7441253263662176,
+        "Dice": 0.8532934131706681,
+        "Precision": 0.9089418777875637,
+        "Recall": 0.8040658123661599,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000083090.jpg": {
+        "IoU": 0.8895750385886929,
+        "Dice": 0.9415609546293633,
+        "Precision": 0.9347677595548604,
+        "Recall": 0.948453608239206,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000254104.jpg": {
+        "IoU": 0.002686108979270659,
+        "Dice": 0.005357826253332869,
+        "Precision": 0.002686108979270659,
+        "Recall": 0.9999999989010989,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000318491.jpg": {
+        "IoU": 0.6108965224472552,
+        "Dice": 0.7584553246402052,
+        "Precision": 0.6459898945815102,
+        "Recall": 0.9183355362023761,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000467758.jpg": {
+        "IoU": 0.6625242389680929,
+        "Dice": 0.7970100205929184,
+        "Precision": 0.6625242389680929,
+        "Recall": 0.9999999999883855,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/30.jpg": {
+        "IoU": 0.8174342704954105,
+        "Dice": 0.8995475476233733,
+        "Precision": 0.8471844293192822,
+        "Recall": 0.958810068639633,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000449577.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000278295.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000233296.jpg": {
+        "IoU": 0.8776112355862609,
+        "Dice": 0.9348167703227848,
+        "Precision": 0.8996975195523657,
+        "Recall": 0.9727891155189967,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000435777.jpg": {
+        "IoU": 0.9023806735407093,
+        "Dice": 0.9486857032259469,
+        "Precision": 0.9945054944963263,
+        "Recall": 0.9069020596813208,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000091550.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/50.jpg": {
+        "IoU": 0.6087545366653573,
+        "Dice": 0.7568022626089246,
+        "Precision": 0.6254289622776985,
+        "Recall": 0.9580419580304862,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000296059.jpg": {
+        "IoU": 0.2099055108115214,
+        "Dice": 0.346978353162027,
+        "Precision": 0.2116503612754506,
+        "Recall": 0.9622093023080994,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/101.jpg": {
+        "IoU": 0.8600119209216861,
+        "Dice": 0.9247380742544133,
+        "Precision": 0.9578454332517367,
+        "Recall": 0.8938429240057343,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/66.jpg": {
+        "IoU": 0.9121672223311929,
+        "Dice": 0.9540663721022647,
+        "Precision": 0.9387417218489452,
+        "Recall": 0.9698996655461184,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000075614.jpg": {
+        "IoU": 0.7718653373512798,
+        "Dice": 0.8712460490988817,
+        "Precision": 0.8997978303703166,
+        "Recall": 0.8444505118151322,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000574884.jpg": {
+        "IoU": 0.0037458292237438047,
+        "Dice": 0.007463700699290929,
+        "Precision": 0.0037458292237438047,
+        "Recall": 0.9999999985994398,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000459104.jpg": {
+        "IoU": 0.8780188484732167,
+        "Dice": 0.9350479620447094,
+        "Precision": 0.9209039547932115,
+        "Recall": 0.9496332171420359,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000123788.jpg": {
+        "IoU": 0.6572678658177503,
+        "Dice": 0.7931944851817093,
+        "Precision": 0.7722772277141227,
+        "Recall": 0.8152763818999081,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000441440.jpg": {
+        "IoU": 0.7940711317040252,
+        "Dice": 0.8852169991162047,
+        "Precision": 0.9999999999942102,
+        "Recall": 0.7940711317040252,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000487222.jpg": {
+        "IoU": 0.650920076723175,
+        "Dice": 0.7885543169541582,
+        "Precision": 0.7030554729448071,
+        "Recall": 0.8977272723872246,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000182782.jpg": {
+        "IoU": 0.5407769784151912,
+        "Dice": 0.701953606512764,
+        "Precision": 0.5407769784151912,
+        "Recall": 0.9999999999929047,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000135790.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/86.jpg": {
+        "IoU": 0.47555819109834874,
+        "Dice": 0.6445807342160617,
+        "Precision": 0.47555819109834874,
+        "Recall": 0.9999999999932231,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/61.jpg": {
+        "IoU": 0.6963261629018461,
+        "Dice": 0.820981457611507,
+        "Precision": 0.7307051573923604,
+        "Recall": 0.9367088607525718,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000412501.jpg": {
+        "IoU": 0.86502370410324,
+        "Dice": 0.9276275708454543,
+        "Precision": 0.9564697523614426,
+        "Recall": 0.9004739336419438,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/1.jpg": {
+        "IoU": 0.7148388989865238,
+        "Dice": 0.833709684809455,
+        "Precision": 0.9794520547874884,
+        "Recall": 0.7257222804393756,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000440575.jpg": {
+        "IoU": 0.7477929720661421,
+        "Dice": 0.855699712743602,
+        "Precision": 0.7584269662255594,
+        "Recall": 0.9815950919130203,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000376128.jpg": {
+        "IoU": 0.8070121439288992,
+        "Dice": 0.8932005760340399,
+        "Precision": 0.8185404525768322,
+        "Recall": 0.9828473413267429,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000168178.jpg": {
+        "IoU": 0.9170948381386915,
+        "Dice": 0.9567547936534004,
+        "Precision": 0.9398907103740244,
+        "Recall": 0.9742351046607663,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000011474.jpg": {
+        "IoU": 0.7130927697712324,
+        "Dice": 0.8325209029589906,
+        "Precision": 0.715993735429963,
+        "Recall": 0.9943502824726885,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000066182.jpg": {
+        "IoU": 0.5190677965601822,
+        "Dice": 0.6834030682969822,
+        "Precision": 0.5190677965601822,
+        "Recall": 0.9999999998144712,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000556524.jpg": {
+        "IoU": 0.8527411954838311,
+        "Dice": 0.9205184162390726,
+        "Precision": 0.9635258358482942,
+        "Recall": 0.8811862614536446,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000119947.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000393221.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000175418.jpg": {
+        "IoU": 0.8758156014552478,
+        "Dice": 0.933797118198393,
+        "Precision": 0.9663120567272675,
+        "Recall": 0.9033991052793637,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000326182.jpg": {
+        "IoU": 0.7987519500424002,
+        "Dice": 0.8881179531436472,
+        "Precision": 0.8139904610123102,
+        "Recall": 0.9770992365879444,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000387219.jpg": {
+        "IoU": 0.657718120784349,
+        "Dice": 0.7935222671911795,
+        "Precision": 0.7656249999715169,
+        "Recall": 0.8235294117317515,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000316936.jpg": {
+        "IoU": 0.784618584574265,
+        "Dice": 0.8793123543106462,
+        "Precision": 0.9874999999956915,
+        "Recall": 0.7924894957955445,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/131.jpg": {
+        "IoU": 0.7785721921026844,
+        "Dice": 0.8755024907729291,
+        "Precision": 0.9490841399815745,
+        "Recall": 0.812509362577052,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000134334.jpg": {
+        "IoU": 0.6163934426186871,
+        "Dice": 0.7626774847837545,
+        "Precision": 0.629668885398527,
+        "Recall": 0.9669270833228416,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000180411.jpg": {
+        "IoU": 0.7961757096777937,
+        "Dice": 0.8865231896723682,
+        "Precision": 0.7961757096777937,
+        "Recall": 0.9999999999889478,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/52.jpg": {
+        "IoU": 0.7752485845799092,
+        "Dice": 0.8733972146930198,
+        "Precision": 0.7752485845799092,
+        "Recall": 0.9999999999944548,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000456771.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000341916.jpg": {
+        "IoU": 0.6612430576813259,
+        "Dice": 0.7960822525323338,
+        "Precision": 0.6825396825331285,
+        "Recall": 0.9549393414083144,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000093703.jpg": {
+        "IoU": 0.7201124869122765,
+        "Dice": 0.837285343128843,
+        "Precision": 0.7581418833540872,
+        "Recall": 0.9348785871832389,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000490434.jpg": {
+        "IoU": 0.6894201228713177,
+        "Dice": 0.8161618457575701,
+        "Precision": 0.809126760540588,
+        "Recall": 0.8233203393481048,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000164041.jpg": {
+        "IoU": 0.9411105741705025,
+        "Dice": 0.9696619931841529,
+        "Precision": 0.9587155963231243,
+        "Recall": 0.9808612440116538,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000535198.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000198085.jpg": {
+        "IoU": 0.27926174728848463,
+        "Dice": 0.43659829253928073,
+        "Precision": 0.304932735423703,
+        "Recall": 0.7683689024243832,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/173.jpg": {
+        "IoU": 0.6906164397597407,
+        "Dice": 0.8169995553312928,
+        "Precision": 0.7021274368081943,
+        "Recall": 0.9768115941886708,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000328224.jpg": {
+        "IoU": 0.21507048092683226,
+        "Dice": 0.35400494753650935,
+        "Precision": 0.21507048092683226,
+        "Recall": 0.9999999999598393,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000542855.jpg": {
+        "IoU": 0.8117730540131864,
+        "Dice": 0.8961089825406776,
+        "Precision": 0.8262521588859973,
+        "Recall": 0.978869047606909,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000346482.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000446931.jpg": {
+        "IoU": 0.794184182199716,
+        "Dice": 0.8852872409409225,
+        "Precision": 0.9758203799566798,
+        "Recall": 0.810126582272431,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000040870.jpg": {
+        "IoU": 0.4657760200591707,
+        "Dice": 0.6355350526751941,
+        "Precision": 0.4926239542900161,
+        "Recall": 0.8952481598736443,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000467154.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000429820.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000175314.jpg": {
+        "IoU": 0.7271651680004027,
+        "Dice": 0.8420331552219366,
+        "Precision": 0.7406604000889707,
+        "Recall": 0.9755555555426515,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000527637.jpg": {
+        "IoU": 0.7073186915209068,
+        "Dice": 0.8285725389567614,
+        "Precision": 0.8324385529856467,
+        "Recall": 0.8247422680332611,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000284333.jpg": {
+        "IoU": 0.9676916781996122,
+        "Dice": 0.9835805974287856,
+        "Precision": 0.9967741935403083,
+        "Recall": 0.9707317073094109,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000551246.jpg": {
+        "IoU": 0.6008583690957138,
+        "Dice": 0.7506702412845231,
+        "Precision": 0.6943403190234579,
+        "Recall": 0.8169468984460574,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/47.jpg": {
+        "IoU": 0.6753369692630493,
+        "Dice": 0.8062103107055746,
+        "Precision": 0.6753369692630493,
+        "Recall": 0.9999999999920357,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000277999.jpg": {
+        "IoU": 0.8327939590039862,
+        "Dice": 0.9087698646241281,
+        "Precision": 0.8327939590039862,
+        "Recall": 0.9999999999948598,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000145249.jpg": {
+        "IoU": 0.38881340579395696,
+        "Dice": 0.5599217348736348,
+        "Precision": 0.9999999999791996,
+        "Recall": 0.38881340579395696,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000235663.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000322802.jpg": {
+        "IoU": 0.8669896091364176,
+        "Dice": 0.9287567588953499,
+        "Precision": 0.9967689822233485,
+        "Recall": 0.8694330107121961,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000203969.jpg": {
+        "IoU": 0.7908634879674057,
+        "Dice": 0.8832202937645682,
+        "Precision": 0.8464285714220141,
+        "Recall": 0.9233558135919127,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/41.jpg": {
+        "IoU": 0.7556440903012284,
+        "Dice": 0.8608169440214698,
+        "Precision": 0.7907946370130408,
+        "Recall": 0.9444444444378578,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/60.jpg": {
+        "IoU": 0.4077944132515152,
+        "Dice": 0.5793380189791377,
+        "Precision": 0.4077944132515152,
+        "Recall": 0.9999999999915014,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000232223.jpg": {
+        "IoU": 0.41951573410338705,
+        "Dice": 0.591068804698198,
+        "Precision": 0.9546411325074365,
+        "Recall": 0.4280479680173584,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000090820.jpg": {
+        "IoU": 0.8842522600283527,
+        "Dice": 0.9385709958124685,
+        "Precision": 0.984777940031056,
+        "Recall": 0.89650588087387,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000360643.jpg": {
+        "IoU": 0.7382180497051313,
+        "Dice": 0.8493963686896031,
+        "Precision": 0.9713193116542859,
+        "Recall": 0.7546681375197303,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000090387.jpg": {
+        "IoU": 0.7266708454054036,
+        "Dice": 0.8417016449186517,
+        "Precision": 0.7428811726466531,
+        "Recall": 0.9708468543785873,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000292791.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000475447.jpg": {
+        "IoU": 0.8738453076143058,
+        "Dice": 0.9326760368782475,
+        "Precision": 0.9551724137846581,
+        "Recall": 0.9112149532633421,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000445561.jpg": {
+        "IoU": 0.9013147771298765,
+        "Dice": 0.9480963257335571,
+        "Precision": 0.9672489082880698,
+        "Recall": 0.9296874999918023,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000211969.jpg": {
+        "IoU": 0.6412698412646214,
+        "Dice": 0.7814313346189484,
+        "Precision": 0.6446808510585542,
+        "Recall": 0.9918166939318669,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000202943.jpg": {
+        "IoU": 0.5291243857848794,
+        "Dice": 0.6920619286485145,
+        "Precision": 0.5461355355788571,
+        "Recall": 0.9444052419196168,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/44.jpg": {
+        "IoU": 0.5415066274654781,
+        "Dice": 0.7025680173114989,
+        "Precision": 0.547425452972861,
+        "Recall": 0.9804241435493867,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000084875.jpg": {
+        "IoU": 0.8488941326259943,
+        "Dice": 0.9182722987176182,
+        "Precision": 0.8525247509823187,
+        "Recall": 0.9950083194631857,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/99.jpg": {
+        "IoU": 0.6394144137569118,
+        "Dice": 0.7800522044839391,
+        "Precision": 0.9378378378338336,
+        "Recall": 0.6677133998034177,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000402174.jpg": {
+        "IoU": 0.6788913773725801,
+        "Dice": 0.8087377021794308,
+        "Precision": 0.6788913773725801,
+        "Recall": 0.999999999984727,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000017147.jpg": {
+        "IoU": 0.74759051834252,
+        "Dice": 0.8555671485921802,
+        "Precision": 0.7656055486168236,
+        "Recall": 0.969485418272361,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000505447.jpg": {
+        "IoU": 0.8674330680905362,
+        "Dice": 0.9290111468118027,
+        "Precision": 0.9671592774962041,
+        "Recall": 0.8937582098949604,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/119.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000474788.jpg": {
+        "IoU": 0.8766457176532572,
+        "Dice": 0.9342687427965908,
+        "Precision": 0.9083994865756334,
+        "Recall": 0.9616545893235883,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/121.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000361497.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000021972.jpg": {
+        "IoU": 0.6027321523117012,
+        "Dice": 0.7521308553551511,
+        "Precision": 0.6177456674621318,
+        "Recall": 0.9612403100598619,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/32.jpg": {
+        "IoU": 0.8376949127948019,
+        "Dice": 0.9116800693764987,
+        "Precision": 0.8579722510718487,
+        "Recall": 0.9725609756046438,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000144064.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000403820.jpg": {
+        "IoU": 0.7173770645122658,
+        "Dice": 0.835433381912551,
+        "Precision": 0.7262887391408845,
+        "Recall": 0.983183443130169,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/167.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/39.jpg": {
+        "IoU": 0.7745642032852039,
+        "Dice": 0.8729627272445524,
+        "Precision": 0.7768434271876925,
+        "Recall": 0.9962264150864749,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/184.jpg": {
+        "IoU": 0.6646404370099952,
+        "Dice": 0.798539338866252,
+        "Precision": 0.6898148148121579,
+        "Recall": 0.9479495268088627,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000189469.jpg": {
+        "IoU": 0.8335336678208504,
+        "Dice": 0.9092101033645079,
+        "Precision": 0.9185810002314414,
+        "Recall": 0.9000284699817456,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000277926.jpg": {
+        "IoU": 0.5373422419395185,
+        "Dice": 0.6990535058239276,
+        "Precision": 0.5373422419395185,
+        "Recall": 0.9999999997236806,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/136.jpg": {
+        "IoU": 0.8347899115482177,
+        "Dice": 0.9099569452546334,
+        "Precision": 0.9186691312296031,
+        "Recall": 0.9014084506957104,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000226419.jpg": {
+        "IoU": 0.8107027421168742,
+        "Dice": 0.8954564692038737,
+        "Precision": 0.987719298238177,
+        "Recall": 0.818957659598578,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000078354.jpg": {
+        "IoU": 0.02792321116902526,
+        "Dice": 0.054329371816147734,
+        "Precision": 0.02792321116902526,
+        "Recall": 0.9999999996675533,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000270184.jpg": {
+        "IoU": 0.07367277123261437,
+        "Dice": 0.13723505560830312,
+        "Precision": 0.2826585744878825,
+        "Recall": 0.09061501471028335,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000203704.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000264235.jpg": {
+        "IoU": 0.5365998640848675,
+        "Dice": 0.6984249792374454,
+        "Precision": 0.922077921943371,
+        "Recall": 0.5620885962851727,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000350987.jpg": {
+        "IoU": 0.7226623184847193,
+        "Dice": 0.839006357462308,
+        "Precision": 0.9147286821668262,
+        "Recall": 0.7748623347990953,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000373596.jpg": {
+        "IoU": 0.19900426877076882,
+        "Dice": 0.3319492247926523,
+        "Precision": 0.19900426877076882,
+        "Recall": 0.9999999999762188,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000478120.jpg": {
+        "IoU": 0.8634361233293721,
+        "Dice": 0.9267139479798046,
+        "Precision": 0.9444444444221362,
+        "Recall": 0.9096369096162154,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/105.jpg": {
+        "IoU": 0.8608480856230872,
+        "Dice": 0.9252212389329357,
+        "Precision": 0.879310344818342,
+        "Recall": 0.9761904761790828,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000169490.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000212589.jpg": {
+        "IoU": 0.5817995909968268,
+        "Dice": 0.7356173238484468,
+        "Precision": 0.6505465850902563,
+        "Recall": 0.8462843126911821,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/29.jpg": {
+        "IoU": 0.74414083516595,
+        "Dice": 0.8533036096195146,
+        "Precision": 0.7567242247143737,
+        "Recall": 0.9781421795538942,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000395263.jpg": {
+        "IoU": 0.8090542060956297,
+        "Dice": 0.8944499323121572,
+        "Precision": 0.9999999999897743,
+        "Recall": 0.8090542060956297,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000255728.jpg": {
+        "IoU": 0.8233907097325589,
+        "Dice": 0.9031423768231523,
+        "Precision": 0.8671214267914058,
+        "Recall": 0.9422857142782359,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000018601.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000293862.jpg": {
+        "IoU": 0.5514733047087693,
+        "Dice": 0.7109027310170672,
+        "Precision": 0.7096150220830804,
+        "Recall": 0.712195121945361,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000310416.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000377493.jpg": {
+        "IoU": 0.7926136363354895,
+        "Dice": 0.884310618049043,
+        "Precision": 0.9999999999551972,
+        "Recall": 0.7926136363354895,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000187557.jpg": {
+        "IoU": 0.8437739428593252,
+        "Dice": 0.9152683235676933,
+        "Precision": 0.9653465346454064,
+        "Recall": 0.8701295769495226,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/201.jpg": {
+        "IoU": 0.8530554502568564,
+        "Dice": 0.920701482665953,
+        "Precision": 0.9999999999920652,
+        "Recall": 0.8530554502568564,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000513441.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/71.jpg": {
+        "IoU": 0.658889645774229,
+        "Dice": 0.794374294218607,
+        "Precision": 0.7863887736143328,
+        "Recall": 0.8025236593025257,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000241790.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000125335.jpg": {
+        "IoU": 0.7612177342294921,
+        "Dice": 0.8644220637064094,
+        "Precision": 0.8483146067331381,
+        "Recall": 0.8811530437206302,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000009426.jpg": {
+        "IoU": 0.8377725347460827,
+        "Dice": 0.9117260367174159,
+        "Precision": 0.9999999999932139,
+        "Recall": 0.8377725347460827,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000534058.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000253557.jpg": {
+        "IoU": 0.7092877714409274,
+        "Dice": 0.8299220099644178,
+        "Precision": 0.8971962616753475,
+        "Recall": 0.7720328558339481,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000072391.jpg": {
+        "IoU": 0.6966019417424492,
+        "Dice": 0.8211731044313471,
+        "Precision": 0.6966019417424492,
+        "Recall": 0.9999999999894416,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000025404.jpg": {
+        "IoU": 0.8286494925778162,
+        "Dice": 0.9062966915651868,
+        "Precision": 0.8504066146619323,
+        "Recall": 0.9700499167969615,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/19.jpg": {
+        "IoU": 0.7059003747114783,
+        "Dice": 0.827598592714851,
+        "Precision": 0.7213302936378324,
+        "Recall": 0.9705882352888758,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000268547.jpg": {
+        "IoU": 0.7598054174302196,
+        "Dice": 0.8635107153377627,
+        "Precision": 0.7732412633969672,
+        "Recall": 0.977642276411474,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000040008.jpg": {
+        "IoU": 0.9495557808026798,
+        "Dice": 0.9741252752580635,
+        "Precision": 0.9562841529958939,
+        "Recall": 0.9926447671778695,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000524563.jpg": {
+        "IoU": 0.8410591569780178,
+        "Dice": 0.9136688017766503,
+        "Precision": 0.8556579381857238,
+        "Recall": 0.9801176334864254,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000268643.jpg": {
+        "IoU": 0.4099560760993923,
+        "Dice": 0.581516095499266,
+        "Precision": 0.4099560760993923,
+        "Recall": 0.9999999997899159,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/CV_Competition/images/000000299050.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    }
+}

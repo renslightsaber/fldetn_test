@@ -1,0 +1,1956 @@
+{
+    "Datasets/CV_Competition/images/000000253285.jpg": [
+        {
+            "bbox": [
+                21.622314453125,
+                176.5968475341797,
+                609.9326171875,
+                412.77056884765625
+            ],
+            "confidence": 0.6357357501983643,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000503782.jpg": [
+        {
+            "bbox": [
+                27.23968505859375,
+                230.81700134277344,
+                627.2838134765625,
+                448.7095947265625
+            ],
+            "confidence": 0.7240869402885437,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000016432.jpg": [],
+    "Datasets/CV_Competition/images/000000162257.jpg": [
+        {
+            "bbox": [
+                107.84974670410156,
+                143.5120849609375,
+                539.4071044921875,
+                332.7885437011719
+            ],
+            "confidence": 0.2501399517059326,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000129865.jpg": [],
+    "Datasets/CV_Competition/images/000000475447.jpg": [
+        {
+            "bbox": [
+                35.9130859375,
+                210.82373046875,
+                596.5220947265625,
+                390.2432861328125
+            ],
+            "confidence": 0.7832227945327759,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000406866.jpg": [],
+    "Datasets/CV_Competition/images/52.jpg": [
+        {
+            "bbox": [
+                9.47259521484375,
+                99.138427734375,
+                640.0,
+                407.67547607421875
+            ],
+            "confidence": 0.43132874369621277,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/141.jpg": [
+        {
+            "bbox": [
+                0.89300537109375,
+                81.01284790039062,
+                631.483154296875,
+                493.9961242675781
+            ],
+            "confidence": 0.40034592151641846,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/104.jpg": [
+        {
+            "bbox": [
+                6.07781982421875,
+                137.36026000976562,
+                640.0,
+                425.3497009277344
+            ],
+            "confidence": 0.5609040856361389,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                9.95703125,
+                52.30731201171875,
+                640.0,
+                466.26513671875
+            ],
+            "confidence": 0.4937048852443695,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000329562.jpg": [
+        {
+            "bbox": [
+                2.9249267578125,
+                180.26458740234375,
+                612.2813720703125,
+                402.7098388671875
+            ],
+            "confidence": 0.4612710475921631,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000346482.jpg": [],
+    "Datasets/CV_Competition/images/39.jpg": [
+        {
+            "bbox": [
+                39.22222900390625,
+                201.66409301757812,
+                594.52783203125,
+                448.5990295410156
+            ],
+            "confidence": 0.7420364618301392,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000268643.jpg": [
+        {
+            "bbox": [
+                341.2557373046875,
+                347.96337890625,
+                464.5302734375,
+                401.63812255859375
+            ],
+            "confidence": 0.5649007558822632,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                338.4563903808594,
+                355.9049987792969,
+                449.6912536621094,
+                406.4413146972656
+            ],
+            "confidence": 0.4477970004081726,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000075466.jpg": [
+        {
+            "bbox": [
+                4.33563232421875,
+                228.59967041015625,
+                612.139892578125,
+                404.02294921875
+            ],
+            "confidence": 0.3414783775806427,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000562863.jpg": [
+        {
+            "bbox": [
+                8.90814208984375,
+                239.23138427734375,
+                593.6138305664062,
+                440.479248046875
+            ],
+            "confidence": 0.6387991309165955,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/102.jpg": [
+        {
+            "bbox": [
+                6.30487060546875,
+                127.84606170654297,
+                583.1676025390625,
+                382.7659912109375
+            ],
+            "confidence": 0.34973713755607605,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                88.61903381347656,
+                169.90570068359375,
+                598.6873779296875,
+                380.54150390625
+            ],
+            "confidence": 0.33101096749305725,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000279605.jpg": [
+        {
+            "bbox": [
+                14.64154052734375,
+                242.717041015625,
+                582.8958129882812,
+                417.8577880859375
+            ],
+            "confidence": 0.7202174663543701,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000096630.jpg": [],
+    "Datasets/CV_Competition/images/000000467758.jpg": [
+        {
+            "bbox": [
+                0.3968505859375,
+                201.7105712890625,
+                610.742431640625,
+                414.190673828125
+            ],
+            "confidence": 0.6212037205696106,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000549011.jpg": [
+        {
+            "bbox": [
+                14.4969482421875,
+                95.56993865966797,
+                572.498779296875,
+                311.42498779296875
+            ],
+            "confidence": 0.26686859130859375,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000009426.jpg": [
+        {
+            "bbox": [
+                1.16015625,
+                189.7327423095703,
+                617.9306640625,
+                414.76434326171875
+            ],
+            "confidence": 0.508939266204834,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000080518.jpg": [
+        {
+            "bbox": [
+                39.7047119140625,
+                191.73733520507812,
+                454.7589111328125,
+                393.6853332519531
+            ],
+            "confidence": 0.8141694068908691,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000262492.jpg": [
+        {
+            "bbox": [
+                10.46466064453125,
+                255.1885986328125,
+                610.1940307617188,
+                454.03167724609375
+            ],
+            "confidence": 0.7055304646492004,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000111830.jpg": [],
+    "Datasets/CV_Competition/images/000000445561.jpg": [
+        {
+            "bbox": [
+                114.90753173828125,
+                207.04861450195312,
+                570.0736083984375,
+                437.8768005371094
+            ],
+            "confidence": 0.6275511384010315,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000091118.jpg": [
+        {
+            "bbox": [
+                32.04052734375,
+                250.97845458984375,
+                607.806884765625,
+                423.50225830078125
+            ],
+            "confidence": 0.7135903239250183,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000036478.jpg": [],
+    "Datasets/CV_Competition/images/113.jpg": [
+        {
+            "bbox": [
+                64.94064331054688,
+                221.86453247070312,
+                510.3498840332031,
+                416.7621765136719
+            ],
+            "confidence": 0.38414835929870605,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/97.jpg": [],
+    "Datasets/CV_Competition/images/000000479677.jpg": [
+        {
+            "bbox": [
+                9.5714111328125,
+                216.66600036621094,
+                610.961181640625,
+                427.600341796875
+            ],
+            "confidence": 0.5115799307823181,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/153.jpg": [
+        {
+            "bbox": [
+                129.17266845703125,
+                168.92758178710938,
+                560.7896728515625,
+                407.4183654785156
+            ],
+            "confidence": 0.5816254615783691,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000572781.jpg": [
+        {
+            "bbox": [
+                259.5364990234375,
+                281.10662841796875,
+                330.926513671875,
+                313.12432861328125
+            ],
+            "confidence": 0.38638871908187866,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000203969.jpg": [
+        {
+            "bbox": [
+                139.19459533691406,
+                184.40611267089844,
+                599.3570556640625,
+                437.739501953125
+            ],
+            "confidence": 0.6645546555519104,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/125.jpg": [
+        {
+            "bbox": [
+                36.68255615234375,
+                141.37551879882812,
+                596.2817993164062,
+                375.0644226074219
+            ],
+            "confidence": 0.5997041463851929,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000518898.jpg": [],
+    "Datasets/CV_Competition/images/000000446931.jpg": [
+        {
+            "bbox": [
+                54.1746826171875,
+                230.0904998779297,
+                621.0999755859375,
+                421.69403076171875
+            ],
+            "confidence": 0.7933775186538696,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/58.jpg": [
+        {
+            "bbox": [
+                31.739990234375,
+                28.95867919921875,
+                636.016357421875,
+                467.930908203125
+            ],
+            "confidence": 0.5734038352966309,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                37.13665771484375,
+                102.90444946289062,
+                640.0,
+                406.6607360839844
+            ],
+            "confidence": 0.48907309770584106,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                41.83843994140625,
+                126.3382568359375,
+                569.2041625976562,
+                495.7958984375
+            ],
+            "confidence": 0.2991705536842346,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000298440.jpg": [
+        {
+            "bbox": [
+                99.62896728515625,
+                104.81918334960938,
+                545.4239501953125,
+                427.0935974121094
+            ],
+            "confidence": 0.4632952809333801,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000459502.jpg": [
+        {
+            "bbox": [
+                206.3154296875,
+                347.80352783203125,
+                301.2386169433594,
+                417.34674072265625
+            ],
+            "confidence": 0.31452837586402893,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                211.79226684570312,
+                365.75152587890625,
+                290.7969970703125,
+                411.74139404296875
+            ],
+            "confidence": 0.2671714425086975,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000011474.jpg": [
+        {
+            "bbox": [
+                25.52099609375,
+                220.73641967773438,
+                598.1717529296875,
+                418.1304016113281
+            ],
+            "confidence": 0.7025614380836487,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/32.jpg": [
+        {
+            "bbox": [
+                17.4283447265625,
+                110.335693359375,
+                619.331787109375,
+                464.3431396484375
+            ],
+            "confidence": 0.6264415979385376,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/120.jpg": [],
+    "Datasets/CV_Competition/images/198.jpg": [
+        {
+            "bbox": [
+                9.11279296875,
+                0.0,
+                640.0,
+                452.91668701171875
+            ],
+            "confidence": 0.36044538021087646,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                12.8359375,
+                151.3479461669922,
+                631.613525390625,
+                395.73297119140625
+            ],
+            "confidence": 0.30000194907188416,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000180411.jpg": [],
+    "Datasets/CV_Competition/images/000000096154.jpg": [
+        {
+            "bbox": [
+                338.59423828125,
+                199.5803985595703,
+                471.307861328125,
+                329.33941650390625
+            ],
+            "confidence": 0.3789219856262207,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/92.jpg": [
+        {
+            "bbox": [
+                4.67864990234375,
+                69.09561157226562,
+                637.5653076171875,
+                505.5428771972656
+            ],
+            "confidence": 0.37900614738464355,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/94.jpg": [
+        {
+            "bbox": [
+                17.2579345703125,
+                163.1761016845703,
+                598.0242919921875,
+                415.21063232421875
+            ],
+            "confidence": 0.6524001359939575,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/119.jpg": [],
+    "Datasets/CV_Competition/images/000000075614.jpg": [
+        {
+            "bbox": [
+                17.09906005859375,
+                148.88037109375,
+                629.3954467773438,
+                462.6546630859375
+            ],
+            "confidence": 0.5823467969894409,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000275939.jpg": [],
+    "Datasets/CV_Competition/images/000000231966.jpg": [
+        {
+            "bbox": [
+                26.47357177734375,
+                170.330322265625,
+                640.0,
+                474.05181884765625
+            ],
+            "confidence": 0.356986403465271,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000561014.jpg": [
+        {
+            "bbox": [
+                32.27996826171875,
+                259.69940185546875,
+                530.43212890625,
+                424.57940673828125
+            ],
+            "confidence": 0.5461900234222412,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000577563.jpg": [
+        {
+            "bbox": [
+                11.71826171875,
+                211.44064331054688,
+                607.170654296875,
+                406.5544738769531
+            ],
+            "confidence": 0.7853826284408569,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000186508.jpg": [
+        {
+            "bbox": [
+                45.3443603515625,
+                225.26107788085938,
+                564.7894287109375,
+                393.2007751464844
+            ],
+            "confidence": 0.6550471186637878,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                191.5517120361328,
+                228.2428741455078,
+                559.1735229492188,
+                377.96514892578125
+            ],
+            "confidence": 0.36464717984199524,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000175418.jpg": [
+        {
+            "bbox": [
+                27.56671142578125,
+                227.15350341796875,
+                609.4418334960938,
+                400.97113037109375
+            ],
+            "confidence": 0.757513701915741,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/128.jpg": [
+        {
+            "bbox": [
+                16.76422119140625,
+                161.71478271484375,
+                577.12548828125,
+                413.30023193359375
+            ],
+            "confidence": 0.39625102281570435,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/167.jpg": [],
+    "Datasets/CV_Competition/images/000000457131.jpg": [],
+    "Datasets/CV_Competition/images/85.jpg": [
+        {
+            "bbox": [
+                0.0,
+                47.63323974609375,
+                624.4241943359375,
+                448.02508544921875
+            ],
+            "confidence": 0.38341403007507324,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000075309.jpg": [
+        {
+            "bbox": [
+                192.6710205078125,
+                197.72763061523438,
+                407.8387451171875,
+                363.0966491699219
+            ],
+            "confidence": 0.8575420379638672,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/200.jpg": [
+        {
+            "bbox": [
+                10.78948974609375,
+                73.43798828125,
+                597.895751953125,
+                429.758544921875
+            ],
+            "confidence": 0.33353373408317566,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000395495.jpg": [
+        {
+            "bbox": [
+                191.13650512695312,
+                216.6652374267578,
+                380.7440490722656,
+                379.46893310546875
+            ],
+            "confidence": 0.5754002332687378,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                217.4124755859375,
+                229.23861694335938,
+                366.65899658203125,
+                362.1456604003906
+            ],
+            "confidence": 0.3928300738334656,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                226.62049865722656,
+                252.3548583984375,
+                357.3809814453125,
+                387.8778076171875
+            ],
+            "confidence": 0.3686579167842865,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000373596.jpg": [],
+    "Datasets/CV_Competition/images/26.jpg": [
+        {
+            "bbox": [
+                40.20477294921875,
+                73.52642822265625,
+                640.0,
+                494.9208984375
+            ],
+            "confidence": 0.4213523268699646,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000436009.jpg": [],
+    "Datasets/CV_Competition/images/23.jpg": [
+        {
+            "bbox": [
+                32.21905517578125,
+                71.91485595703125,
+                633.19189453125,
+                399.6051025390625
+            ],
+            "confidence": 0.5236263871192932,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                14.17071533203125,
+                24.2943115234375,
+                631.2871704101562,
+                482.2147216796875
+            ],
+            "confidence": 0.4165140390396118,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000072391.jpg": [
+        {
+            "bbox": [
+                29.0946044921875,
+                208.13375854492188,
+                620.867431640625,
+                418.8696594238281
+            ],
+            "confidence": 0.2854739725589752,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000413466.jpg": [
+        {
+            "bbox": [
+                464.09466552734375,
+                165.98941040039062,
+                601.6738891601562,
+                216.33224487304688
+            ],
+            "confidence": 0.3104439377784729,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000046011.jpg": [],
+    "Datasets/CV_Competition/images/000000085799.jpg": [],
+    "Datasets/CV_Competition/images/000000012178.jpg": [
+        {
+            "bbox": [
+                103.96160888671875,
+                269.35498046875,
+                378.357666015625,
+                353.132080078125
+            ],
+            "confidence": 0.7881888747215271,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                133.35494995117188,
+                283.259765625,
+                354.2818298339844,
+                352.2255859375
+            ],
+            "confidence": 0.3572045862674713,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000066255.jpg": [
+        {
+            "bbox": [
+                235.4852294921875,
+                312.5208740234375,
+                298.28839111328125,
+                351.87548828125
+            ],
+            "confidence": 0.5084134936332703,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                236.29452514648438,
+                286.35986328125,
+                311.7435607910156,
+                381.6778564453125
+            ],
+            "confidence": 0.29947629570961,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000277204.jpg": [
+        {
+            "bbox": [
+                61.36004638671875,
+                240.867919921875,
+                557.17236328125,
+                401.9193115234375
+            ],
+            "confidence": 0.7202073931694031,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                158.48809814453125,
+                251.7515869140625,
+                554.7022094726562,
+                381.619140625
+            ],
+            "confidence": 0.25641337037086487,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000310206.jpg": [
+        {
+            "bbox": [
+                23.2503662109375,
+                232.7568817138672,
+                620.27587890625,
+                423.70928955078125
+            ],
+            "confidence": 0.8125476837158203,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/13.jpg": [
+        {
+            "bbox": [
+                17.592041015625,
+                87.18722534179688,
+                640.0,
+                489.4531555175781
+            ],
+            "confidence": 0.4287242889404297,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000343905.jpg": [
+        {
+            "bbox": [
+                335.70147705078125,
+                217.89132690429688,
+                552.4404907226562,
+                372.8852233886719
+            ],
+            "confidence": 0.4513980448246002,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000360129.jpg": [
+        {
+            "bbox": [
+                23.436553955078125,
+                206.22210693359375,
+                298.8109130859375,
+                293.88641357421875
+            ],
+            "confidence": 0.5908557176589966,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000478120.jpg": [],
+    "Datasets/CV_Competition/images/000000257666.jpg": [
+        {
+            "bbox": [
+                50.81964111328125,
+                198.88365173339844,
+                592.715087890625,
+                393.8603515625
+            ],
+            "confidence": 0.3004229664802551,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000254347.jpg": [
+        {
+            "bbox": [
+                240.06362915039062,
+                280.3780517578125,
+                378.5628967285156,
+                351.19873046875
+            ],
+            "confidence": 0.5557618141174316,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                258.1107177734375,
+                298.33868408203125,
+                386.9791259765625,
+                353.58099365234375
+            ],
+            "confidence": 0.350631982088089,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                225.7301025390625,
+                281.309814453125,
+                361.3424072265625,
+                338.8017578125
+            ],
+            "confidence": 0.31671175360679626,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                233.9271240234375,
+                263.70343017578125,
+                371.52508544921875,
+                339.25140380859375
+            ],
+            "confidence": 0.297465056180954,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000435142.jpg": [],
+    "Datasets/CV_Competition/images/88.jpg": [
+        {
+            "bbox": [
+                53.5050048828125,
+                219.53829956054688,
+                509.6229248046875,
+                451.9126281738281
+            ],
+            "confidence": 0.6933447122573853,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000316649.jpg": [
+        {
+            "bbox": [
+                10.299560546875,
+                109.43576049804688,
+                591.330078125,
+                394.2452087402344
+            ],
+            "confidence": 0.2946702539920807,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/43.jpg": [
+        {
+            "bbox": [
+                4.9727783203125,
+                201.68405151367188,
+                617.697509765625,
+                443.5057678222656
+            ],
+            "confidence": 0.701826274394989,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/148.jpg": [],
+    "Datasets/CV_Competition/images/136.jpg": [
+        {
+            "bbox": [
+                27.27484130859375,
+                230.59585571289062,
+                583.8064575195312,
+                424.9872131347656
+            ],
+            "confidence": 0.4759346544742584,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000318491.jpg": [
+        {
+            "bbox": [
+                9.76873779296875,
+                168.88113403320312,
+                625.1827392578125,
+                425.6646423339844
+            ],
+            "confidence": 0.35044190287590027,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/27.jpg": [
+        {
+            "bbox": [
+                22.79620361328125,
+                236.0335693359375,
+                587.2838745117188,
+                470.75140380859375
+            ],
+            "confidence": 0.7455558180809021,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/162.jpg": [],
+    "Datasets/CV_Competition/images/000000527637.jpg": [
+        {
+            "bbox": [
+                42.17962646484375,
+                205.8570556640625,
+                606.819091796875,
+                383.770751953125
+            ],
+            "confidence": 0.8031274676322937,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000173544.jpg": [
+        {
+            "bbox": [
+                321.13873291015625,
+                259.21417236328125,
+                517.159423828125,
+                326.87969970703125
+            ],
+            "confidence": 0.5651881098747253,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                316.09185791015625,
+                246.19302368164062,
+                479.04827880859375,
+                323.1217956542969
+            ],
+            "confidence": 0.3985063433647156,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                335.67156982421875,
+                273.2988586425781,
+                490.03289794921875,
+                328.4844665527344
+            ],
+            "confidence": 0.2812337875366211,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/48.jpg": [
+        {
+            "bbox": [
+                5.21038818359375,
+                255.9382781982422,
+                614.67529296875,
+                478.08648681640625
+            ],
+            "confidence": 0.6495603919029236,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                0.0,
+                139.14794921875,
+                632.418701171875,
+                513.6651611328125
+            ],
+            "confidence": 0.4498330056667328,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000358118.jpg": [
+        {
+            "bbox": [
+                120.01278686523438,
+                53.1046142578125,
+                506.4656066894531,
+                471.27532958984375
+            ],
+            "confidence": 0.4532952606678009,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                138.3702850341797,
+                130.68994140625,
+                462.14007568359375,
+                478.10760498046875
+            ],
+            "confidence": 0.309490442276001,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                142.74932861328125,
+                285.945556640625,
+                431.08343505859375,
+                466.267822265625
+            ],
+            "confidence": 0.30067700147628784,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/185.jpg": [
+        {
+            "bbox": [
+                8.1422119140625,
+                70.51333618164062,
+                639.3582763671875,
+                434.5015563964844
+            ],
+            "confidence": 0.27378299832344055,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000040008.jpg": [
+        {
+            "bbox": [
+                84.25091552734375,
+                249.52330017089844,
+                611.2333984375,
+                425.4918212890625
+            ],
+            "confidence": 0.8061344623565674,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/6.jpg": [
+        {
+            "bbox": [
+                32.07745361328125,
+                150.92897033691406,
+                618.3040771484375,
+                442.4945068359375
+            ],
+            "confidence": 0.6297594904899597,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/124.jpg": [
+        {
+            "bbox": [
+                6.82891845703125,
+                198.97723388671875,
+                622.9513549804688,
+                427.388671875
+            ],
+            "confidence": 0.3706749975681305,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000024790.jpg": [
+        {
+            "bbox": [
+                53.5274658203125,
+                115.42010498046875,
+                570.87890625,
+                512.3359375
+            ],
+            "confidence": 0.3524196147918701,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/187.jpg": [
+        {
+            "bbox": [
+                0.0,
+                152.5093536376953,
+                631.89013671875,
+                415.67877197265625
+            ],
+            "confidence": 0.48396074771881104,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/106.jpg": [
+        {
+            "bbox": [
+                14.249267578125,
+                157.1295166015625,
+                640.0,
+                605.9140625
+            ],
+            "confidence": 0.4156288802623749,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                8.393798828125,
+                296.785400390625,
+                637.007568359375,
+                565.2381591796875
+            ],
+            "confidence": 0.34947603940963745,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000043678.jpg": [
+        {
+            "bbox": [
+                61.65589904785156,
+                213.51812744140625,
+                555.1998291015625,
+                433.62396240234375
+            ],
+            "confidence": 0.630945086479187,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000296137.jpg": [
+        {
+            "bbox": [
+                41.447021484375,
+                221.8197021484375,
+                584.9647216796875,
+                420.68524169921875
+            ],
+            "confidence": 0.5887501239776611,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000011347.jpg": [
+        {
+            "bbox": [
+                22.48004150390625,
+                206.47943115234375,
+                617.7012329101562,
+                373.467041015625
+            ],
+            "confidence": 0.4985290765762329,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000333371.jpg": [
+        {
+            "bbox": [
+                21.3724365234375,
+                236.63604736328125,
+                626.54541015625,
+                450.6925048828125
+            ],
+            "confidence": 0.45516592264175415,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000387296.jpg": [
+        {
+            "bbox": [
+                13.87628173828125,
+                245.48458862304688,
+                599.7410278320312,
+                398.3248596191406
+            ],
+            "confidence": 0.5253577828407288,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/168.jpg": [
+        {
+            "bbox": [
+                5.41583251953125,
+                185.320556640625,
+                632.7113037109375,
+                428.59893798828125
+            ],
+            "confidence": 0.44806161522865295,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/144.jpg": [
+        {
+            "bbox": [
+                6.5191650390625,
+                222.09115600585938,
+                576.5224609375,
+                406.0721740722656
+            ],
+            "confidence": 0.6645610332489014,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000490434.jpg": [
+        {
+            "bbox": [
+                171.41619873046875,
+                280.57672119140625,
+                528.775146484375,
+                381.07281494140625
+            ],
+            "confidence": 0.4521143436431885,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000071123.jpg": [
+        {
+            "bbox": [
+                25.99493408203125,
+                191.6680450439453,
+                590.14453125,
+                339.03790283203125
+            ],
+            "confidence": 0.3189243674278259,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000220912.jpg": [
+        {
+            "bbox": [
+                44.1065673828125,
+                178.31031799316406,
+                593.494384765625,
+                373.3953857421875
+            ],
+            "confidence": 0.7546592354774475,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000503779.jpg": [],
+    "Datasets/CV_Competition/images/000000463925.jpg": [
+        {
+            "bbox": [
+                220.6402587890625,
+                264.5044860839844,
+                420.00140380859375,
+                337.9972229003906
+            ],
+            "confidence": 0.6729576587677002,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                211.7751922607422,
+                279.8040466308594,
+                397.94354248046875,
+                340.3150329589844
+            ],
+            "confidence": 0.270536869764328,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000575497.jpg": [
+        {
+            "bbox": [
+                2.89935302734375,
+                172.1998291015625,
+                620.5206909179688,
+                428.39703369140625
+            ],
+            "confidence": 0.3901784121990204,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000157021.jpg": [
+        {
+            "bbox": [
+                191.234130859375,
+                283.1962890625,
+                479.1629638671875,
+                377.08050537109375
+            ],
+            "confidence": 0.7598918676376343,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/4.jpg": [],
+    "Datasets/CV_Competition/images/000000168178.jpg": [
+        {
+            "bbox": [
+                4.45672607421875,
+                212.53280639648438,
+                624.642333984375,
+                401.8645324707031
+            ],
+            "confidence": 0.4896661639213562,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000268547.jpg": [
+        {
+            "bbox": [
+                28.73858642578125,
+                221.6199493408203,
+                532.884033203125,
+                433.19610595703125
+            ],
+            "confidence": 0.6670892238616943,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000374018.jpg": [],
+    "Datasets/CV_Competition/images/000000524823.jpg": [],
+    "Datasets/CV_Competition/images/000000445295.jpg": [
+        {
+            "bbox": [
+                189.6982879638672,
+                244.8094024658203,
+                408.64727783203125,
+                325.87091064453125
+            ],
+            "confidence": 0.42910003662109375,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                204.90081787109375,
+                263.2929992675781,
+                421.99676513671875,
+                324.2761535644531
+            ],
+            "confidence": 0.37196657061576843,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000111223.jpg": [
+        {
+            "bbox": [
+                249.90911865234375,
+                279.4403076171875,
+                606.3734130859375,
+                382.032470703125
+            ],
+            "confidence": 0.3410327732563019,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                18.5255126953125,
+                238.85012817382812,
+                598.15966796875,
+                394.4137268066406
+            ],
+            "confidence": 0.2583327293395996,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000435777.jpg": [
+        {
+            "bbox": [
+                26.82818603515625,
+                251.2417449951172,
+                613.8463745117188,
+                417.22247314453125
+            ],
+            "confidence": 0.7998543977737427,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000549404.jpg": [
+        {
+            "bbox": [
+                16.31060791015625,
+                224.40098571777344,
+                609.255126953125,
+                386.501220703125
+            ],
+            "confidence": 0.7025282382965088,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000508805.jpg": [
+        {
+            "bbox": [
+                5.79339599609375,
+                159.22227478027344,
+                612.133544921875,
+                404.6861572265625
+            ],
+            "confidence": 0.48079124093055725,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000435284.jpg": [
+        {
+            "bbox": [
+                3.06964111328125,
+                203.8415985107422,
+                623.079345703125,
+                414.75372314453125
+            ],
+            "confidence": 0.35167813301086426,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000281103.jpg": [
+        {
+            "bbox": [
+                94.00672912597656,
+                237.96095275878906,
+                577.5323486328125,
+                465.3082275390625
+            ],
+            "confidence": 0.6066253185272217,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000195812.jpg": [
+        {
+            "bbox": [
+                55.92041015625,
+                250.33270263671875,
+                547.2589111328125,
+                395.3885498046875
+            ],
+            "confidence": 0.8210226893424988,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000161463.jpg": [
+        {
+            "bbox": [
+                8.20068359375,
+                73.44253540039062,
+                627.3409423828125,
+                507.2096252441406
+            ],
+            "confidence": 0.40922310948371887,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000277790.jpg": [],
+    "Datasets/CV_Competition/images/000000469492.jpg": [
+        {
+            "bbox": [
+                81.82830810546875,
+                30.350341796875,
+                544.3204345703125,
+                380.36474609375
+            ],
+            "confidence": 0.3486594259738922,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                88.42724609375,
+                80.60015869140625,
+                545.4646606445312,
+                315.2706298828125
+            ],
+            "confidence": 0.3247010111808777,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                380.81329345703125,
+                365.64422607421875,
+                581.6419067382812,
+                563.2367553710938
+            ],
+            "confidence": 0.30171042680740356,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000134012.jpg": [
+        {
+            "bbox": [
+                8.2198486328125,
+                242.12860107421875,
+                596.12060546875,
+                407.48907470703125
+            ],
+            "confidence": 0.5611016154289246,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000325022.jpg": [],
+    "Datasets/CV_Competition/images/000000090387.jpg": [
+        {
+            "bbox": [
+                62.853240966796875,
+                106.60250854492188,
+                401.9048767089844,
+                365.85906982421875
+            ],
+            "confidence": 0.39086446166038513,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000207323.jpg": [
+        {
+            "bbox": [
+                21.4862060546875,
+                190.7791290283203,
+                624.624267578125,
+                374.65484619140625
+            ],
+            "confidence": 0.7988594174385071,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000502588.jpg": [
+        {
+            "bbox": [
+                35.319091796875,
+                220.00979614257812,
+                604.46484375,
+                432.5398864746094
+            ],
+            "confidence": 0.4161908030509949,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/29.jpg": [
+        {
+            "bbox": [
+                2.9544677734375,
+                84.4449462890625,
+                619.2596435546875,
+                499.38427734375
+            ],
+            "confidence": 0.6648072600364685,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                4.24359130859375,
+                163.4832763671875,
+                602.9595336914062,
+                555.6942749023438
+            ],
+            "confidence": 0.25169700384140015,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000141494.jpg": [
+        {
+            "bbox": [
+                1.026611328125,
+                85.79792785644531,
+                638.263671875,
+                498.17437744140625
+            ],
+            "confidence": 0.4098893105983734,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000219094.jpg": [
+        {
+            "bbox": [
+                46.87522888183594,
+                219.10385131835938,
+                513.4239501953125,
+                446.7713317871094
+            ],
+            "confidence": 0.784114420413971,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000463581.jpg": [
+        {
+            "bbox": [
+                8.2763671875,
+                264.0771484375,
+                613.5982666015625,
+                448.6649169921875
+            ],
+            "confidence": 0.4371095597743988,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000483767.jpg": [
+        {
+            "bbox": [
+                1.9549560546875,
+                129.19268798828125,
+                563.32470703125,
+                574.1254272460938
+            ],
+            "confidence": 0.69609534740448,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                376.2818603515625,
+                104.27780151367188,
+                585.3848876953125,
+                310.95513916015625
+            ],
+            "confidence": 0.35022830963134766,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                9.01739501953125,
+                247.49456787109375,
+                526.2745971679688,
+                545.4290161132812
+            ],
+            "confidence": 0.3449947237968445,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000254729.jpg": [],
+    "Datasets/CV_Competition/images/000000407142.jpg": [],
+    "Datasets/CV_Competition/images/36.jpg": [
+        {
+            "bbox": [
+                32.9166259765625,
+                129.48513793945312,
+                579.36669921875,
+                422.5600280761719
+            ],
+            "confidence": 0.763023853302002,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                27.35400390625,
+                112.5035400390625,
+                572.328125,
+                526.9865112304688
+            ],
+            "confidence": 0.5324441194534302,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000174712.jpg": [
+        {
+            "bbox": [
+                222.54701232910156,
+                128.19869995117188,
+                438.30859375,
+                202.63400268554688
+            ],
+            "confidence": 0.372915118932724,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000104380.jpg": [
+        {
+            "bbox": [
+                65.418212890625,
+                198.88461303710938,
+                599.3631591796875,
+                338.6465759277344
+            ],
+            "confidence": 0.563399612903595,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000453158.jpg": [
+        {
+            "bbox": [
+                0.7486572265625,
+                148.2120361328125,
+                639.0107421875,
+                499.07281494140625
+            ],
+            "confidence": 0.2517344653606415,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000421682.jpg": [
+        {
+            "bbox": [
+                227.74996948242188,
+                325.912109375,
+                430.2402648925781,
+                390.068359375
+            ],
+            "confidence": 0.5579036474227905,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000521165.jpg": [],
+    "Datasets/CV_Competition/images/25.jpg": [
+        {
+            "bbox": [
+                68.01373291015625,
+                124.54541015625,
+                592.1084594726562,
+                380.7623291015625
+            ],
+            "confidence": 0.3335055708885193,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                90.84234619140625,
+                134.912841796875,
+                585.2670288085938,
+                293.6206970214844
+            ],
+            "confidence": 0.28800201416015625,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/74.jpg": [
+        {
+            "bbox": [
+                9.511962890625,
+                99.669921875,
+                629.680419921875,
+                486.81060791015625
+            ],
+            "confidence": 0.6264399886131287,
+            "class_id": 0,
+            "class_name": "airplane"
+        },
+        {
+            "bbox": [
+                12.9932861328125,
+                205.1348876953125,
+                627.0330810546875,
+                463.02587890625
+            ],
+            "confidence": 0.528866708278656,
+            "class_id": 0,
+            "class_name": "airplane"
+        }
+    ],
+    "Datasets/CV_Competition/images/000000116171.jpg": []
+}
